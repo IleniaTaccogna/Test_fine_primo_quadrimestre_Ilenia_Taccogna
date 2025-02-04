@@ -5,7 +5,7 @@ using Test__Ilenia_Taccogna.Dto;
 namespace Test__Ilenia_Taccogna.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/persona")]
 
     public class PersonaController : ControllerBase
     {
@@ -18,7 +18,7 @@ namespace Test__Ilenia_Taccogna.Controllers
 
 
 
-        [HttpPost("AddPersona")]
+        [HttpPost]
         public ActionResult<Persona> AddPersona(Persona persona)
         {
             if (persona.Id == Guid.Empty)
@@ -31,13 +31,13 @@ namespace Test__Ilenia_Taccogna.Controllers
         }
 
 
-        [HttpGet("GetPersone")]
+        [HttpGet]
         public ActionResult<IEnumerable<Persona>> GetPersone()
         {
             return Ok(listaPersone);
         }
 
-        [HttpGet("GetPersonaById/{id}")]
+        [HttpGet("{id}")]
         public ActionResult<Persona> GetPersonaById(Guid id)
         {
             var persona = listaPersone.FirstOrDefault(p => p.Id == id);
@@ -50,7 +50,7 @@ namespace Test__Ilenia_Taccogna.Controllers
 
 
 
-        [HttpPut("UpdatePersona/{id}")]
+        [HttpPut("{id}")]
         public ActionResult UpdatePersona(Guid id, Persona persona)
         {
             var existingPersona = listaPersone.FirstOrDefault(p => p.Id == id);
@@ -67,7 +67,7 @@ namespace Test__Ilenia_Taccogna.Controllers
             return NoContent();
         }
 
-        [HttpPut("UpdateEmail/{id}")]
+        [HttpPut("email/{id}")]
         public ActionResult UpdateEmail(Guid id, string newEmail)
         {
             var existingPersona = listaPersone.FirstOrDefault(p => p.Id == id);
@@ -76,12 +76,14 @@ namespace Test__Ilenia_Taccogna.Controllers
                 return NotFound();
             }
 
-            existingPersona.Email = newEmail;
+            // Calcolare la nuova email secondo la logica definita
+            existingPersona.Email = newEmail;  
 
             return NoContent();
         }
 
-        [HttpDelete("DeletePersona/{id}")]
+
+        [HttpDelete("{id}")]
         public ActionResult DeletePersona(Guid id)
         {
             var persona = listaPersone.FirstOrDefault(p => p.Id == id);

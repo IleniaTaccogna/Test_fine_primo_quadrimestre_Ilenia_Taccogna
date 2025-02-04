@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{E65103A1-1710-4F2D-8442-3A43D7189D1B}|Test  Ilenia Taccogna\\Test  Ilenia Taccogna.csproj|solutionrelative:test  ilenia taccogna\\dto\\personadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E65103A1-1710-4F2D-8442-3A43D7189D1B}|Test  Ilenia Taccogna\\Test  Ilenia Taccogna.csproj|c:\\users\\ileni\\source\\repos\\test  ilenia taccogna\\test  ilenia taccogna\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E65103A1-1710-4F2D-8442-3A43D7189D1B}|Test  Ilenia Taccogna\\Test  Ilenia Taccogna.csproj|solutionrelative:test  ilenia taccogna\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E65103A1-1710-4F2D-8442-3A43D7189D1B}|Test  Ilenia Taccogna\\Test  Ilenia Taccogna.csproj|c:\\users\\ileni\\source\\repos\\test  ilenia taccogna\\test  ilenia taccogna\\dto\\dominio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65103A1-1710-4F2D-8442-3A43D7189D1B}|Test  Ilenia Taccogna\\Test  Ilenia Taccogna.csproj|solutionrelative:test  ilenia taccogna\\dto\\dominio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E65103A1-1710-4F2D-8442-3A43D7189D1B}|Test  Ilenia Taccogna\\Test  Ilenia Taccogna.csproj|c:\\users\\ileni\\source\\repos\\test  ilenia taccogna\\test  ilenia taccogna\\dto\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E65103A1-1710-4F2D-8442-3A43D7189D1B}|Test  Ilenia Taccogna\\Test  Ilenia Taccogna.csproj|solutionrelative:test  ilenia taccogna\\dto\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E65103A1-1710-4F2D-8442-3A43D7189D1B}|Test  Ilenia Taccogna\\Test  Ilenia Taccogna.csproj|c:\\users\\ileni\\source\\repos\\test  ilenia taccogna\\test  ilenia taccogna\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E65103A1-1710-4F2D-8442-3A43D7189D1B}|Test  Ilenia Taccogna\\Test  Ilenia Taccogna.csproj|solutionrelative:test  ilenia taccogna\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E65103A1-1710-4F2D-8442-3A43D7189D1B}|Test  Ilenia Taccogna\\Test  Ilenia Taccogna.csproj|c:\\users\\ileni\\source\\repos\\test  ilenia taccogna\\test  ilenia taccogna\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65103A1-1710-4F2D-8442-3A43D7189D1B}|Test  Ilenia Taccogna\\Test  Ilenia Taccogna.csproj|solutionrelative:test  ilenia taccogna\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,15 +34,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Persona.cs",
-              "DocumentMoniker": "C:\\Users\\ileni\\source\\repos\\Test  Ilenia Taccogna\\Test  Ilenia Taccogna\\Dto\\Persona.cs",
-              "RelativeDocumentMoniker": "Test  Ilenia Taccogna\\Dto\\Persona.cs",
-              "ToolTip": "C:\\Users\\ileni\\source\\repos\\Test  Ilenia Taccogna\\Test  Ilenia Taccogna\\Dto\\Persona.cs",
-              "RelativeToolTip": "Test  Ilenia Taccogna\\Dto\\Persona.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Dominio.cs",
+              "DocumentMoniker": "C:\\Users\\ileni\\source\\repos\\Test  Ilenia Taccogna\\Test  Ilenia Taccogna\\Dto\\Dominio.cs",
+              "RelativeDocumentMoniker": "Test  Ilenia Taccogna\\Dto\\Dominio.cs",
+              "ToolTip": "C:\\Users\\ileni\\source\\repos\\Test  Ilenia Taccogna\\Test  Ilenia Taccogna\\Dto\\Dominio.cs*",
+              "RelativeToolTip": "Test  Ilenia Taccogna\\Dto\\Dominio.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T16:25:47.609Z",
+              "WhenOpened": "2025-02-04T10:22:05.868Z",
               "EditorCaption": ""
             },
             {
@@ -53,36 +53,35 @@
               "RelativeDocumentMoniker": "Test  Ilenia Taccogna\\Dto\\PersonaData.cs",
               "ToolTip": "C:\\Users\\ileni\\source\\repos\\Test  Ilenia Taccogna\\Test  Ilenia Taccogna\\Dto\\PersonaData.cs",
               "RelativeToolTip": "Test  Ilenia Taccogna\\Dto\\PersonaData.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAUwB4AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwBsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T16:02:27.23Z",
+              "WhenOpened": "2025-02-03T16:39:01.701Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PersonaController.cs",
-              "DocumentMoniker": "C:\\Users\\ileni\\source\\repos\\Test  Ilenia Taccogna\\Test  Ilenia Taccogna\\Controllers\\PersonaController.cs",
-              "RelativeDocumentMoniker": "Test  Ilenia Taccogna\\Controllers\\PersonaController.cs",
-              "ToolTip": "C:\\Users\\ileni\\source\\repos\\Test  Ilenia Taccogna\\Test  Ilenia Taccogna\\Controllers\\PersonaController.cs",
-              "RelativeToolTip": "Test  Ilenia Taccogna\\Controllers\\PersonaController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCgAAAATAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\ileni\\source\\repos\\Test  Ilenia Taccogna\\Test  Ilenia Taccogna\\Dto\\Persona.cs",
+              "RelativeDocumentMoniker": "Test  Ilenia Taccogna\\Dto\\Persona.cs",
+              "ToolTip": "C:\\Users\\ileni\\source\\repos\\Test  Ilenia Taccogna\\Test  Ilenia Taccogna\\Dto\\Persona.cs",
+              "RelativeToolTip": "Test  Ilenia Taccogna\\Dto\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T13:41:47.352Z",
+              "WhenOpened": "2025-02-03T16:25:47.609Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\ileni\\source\\repos\\Test  Ilenia Taccogna\\Test  Ilenia Taccogna\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Test  Ilenia Taccogna\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\ileni\\source\\repos\\Test  Ilenia Taccogna\\Test  Ilenia Taccogna\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Test  Ilenia Taccogna\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "C:\\Users\\ileni\\source\\repos\\Test  Ilenia Taccogna\\Test  Ilenia Taccogna\\Controllers\\PersonaController.cs",
+              "RelativeDocumentMoniker": "Test  Ilenia Taccogna\\Controllers\\PersonaController.cs",
+              "ToolTip": "C:\\Users\\ileni\\source\\repos\\Test  Ilenia Taccogna\\Test  Ilenia Taccogna\\Controllers\\PersonaController.cs",
+              "RelativeToolTip": "Test  Ilenia Taccogna\\Controllers\\PersonaController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowE8AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T10:08:10.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T13:41:47.352Z"
             }
           ]
         }

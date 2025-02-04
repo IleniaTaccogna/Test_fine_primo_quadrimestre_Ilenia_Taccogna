@@ -2,7 +2,7 @@
   {
     "ContainingType": "Test__Ilenia_Taccogna.Controllers.PersonaController",
     "Method": "AddPersona",
-    "RelativePath": "Persona/AddPersona",
+    "RelativePath": "api/persona",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -27,50 +27,8 @@
   },
   {
     "ContainingType": "Test__Ilenia_Taccogna.Controllers.PersonaController",
-    "Method": "DeletePersona",
-    "RelativePath": "Persona/DeletePersona/{id}",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Guid",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "Test__Ilenia_Taccogna.Controllers.PersonaController",
-    "Method": "GetPersonaById",
-    "RelativePath": "Persona/GetPersonaById/{id}",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Guid",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "Test__Ilenia_Taccogna.Dto.Persona",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "Test__Ilenia_Taccogna.Controllers.PersonaController",
     "Method": "GetPersone",
-    "RelativePath": "Persona/GetPersone",
+    "RelativePath": "api/persona",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -89,9 +47,9 @@
   },
   {
     "ContainingType": "Test__Ilenia_Taccogna.Controllers.PersonaController",
-    "Method": "UpdateEmail",
-    "RelativePath": "Persona/UpdateEmail/{id}",
-    "HttpMethod": "PUT",
+    "Method": "GetPersonaById",
+    "RelativePath": "api/persona/{id}",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
@@ -99,19 +57,24 @@
         "Name": "id",
         "Type": "System.Guid",
         "IsRequired": true
-      },
-      {
-        "Name": "newEmail",
-        "Type": "System.String",
-        "IsRequired": false
       }
     ],
-    "ReturnTypes": []
+    "ReturnTypes": [
+      {
+        "Type": "Test__Ilenia_Taccogna.Dto.Persona",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "Test__Ilenia_Taccogna.Controllers.PersonaController",
     "Method": "UpdatePersona",
-    "RelativePath": "Persona/UpdatePersona/{id}",
+    "RelativePath": "api/persona/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -125,6 +88,43 @@
         "Name": "persona",
         "Type": "Test__Ilenia_Taccogna.Dto.Persona",
         "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Test__Ilenia_Taccogna.Controllers.PersonaController",
+    "Method": "DeletePersona",
+    "RelativePath": "api/persona/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Test__Ilenia_Taccogna.Controllers.PersonaController",
+    "Method": "UpdateEmail",
+    "RelativePath": "api/persona/email/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "newEmail",
+        "Type": "System.String",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []
