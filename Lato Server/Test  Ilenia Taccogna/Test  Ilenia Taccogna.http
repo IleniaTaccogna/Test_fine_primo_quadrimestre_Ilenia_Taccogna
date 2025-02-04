@@ -1,0 +1,6 @@
+@Test__Ilenia_Taccogna_HostAddress = http://localhost:5097
+
+GET {{Test__Ilenia_Taccogna_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,32 @@
+C:\Users\ileni\source\repos\Test  Ilenia Taccogna\Test  Ilenia Taccogna\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ileni\source\repos\Test  Ilenia Taccogna\Test  Ilenia Taccogna\bin\Debug\net8.0\appsettings.json
+C:\Users\ileni\source\repos\Test  Ilenia Taccogna\Test  Ilenia Taccogna\bin\Debug\net8.0\Test  Ilenia Taccogna.exe
+C:\Users\ileni\source\repos\Test  Ilenia Taccogna\Test  Ilenia Taccogna\bin\Debug\net8.0\Test  Ilenia Taccogna.deps.json
+C:\Users\ileni\source\repos\Test  Ilenia Taccogna\Test  Ilenia Taccogna\bin\Debug\net8.0\Test  Ilenia Taccogna.runtimeconfig.json
+C:\Users\ileni\source\repos\Test  Ilenia Taccogna\Test  Ilenia Taccogna\bin\Debug\net8.0\Test  Ilenia Taccogna.dll
+C:\Users\ileni\source\repos\Test  Ilenia Taccogna\Test  Ilenia Taccogna\bin\Debug\net8.0\Test  Ilenia Taccogna.pdb
+C:\Users\ileni\source\repos\Test  Ilenia Taccogna\Test  Ilenia Taccogna\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ileni\source\repos\Test  Ilenia Taccogna\Test  Ilenia Taccogna\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ileni\source\repos\Test  Ilenia Taccogna\Test  Ilenia Taccogna\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ileni\source\repos\Test  Ilenia Taccogna\Test  Ilenia Taccogna\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ileni\source\repos\Test  Ilenia Taccogna\Test  Ilenia Taccogna\obj\Debug\net8.0\Test  Ilenia Taccogna.csproj.AssemblyReference.cache
+C:\Users\ileni\source\repos\Test  Ilenia Taccogna\Test  Ilenia Taccogna\obj\Debug\net8.0\Test  Ilenia Taccogna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ileni\source\repos\Test  Ilenia Taccogna\Test  Ilenia Taccogna\obj\Debug\net8.0\Test  Ilenia Taccogna.AssemblyInfoInputs.cache
+C:\Users\ileni\source\repos\Test  Ilenia Taccogna\Test  Ilenia Taccogna\obj\Debug\net8.0\Test  Ilenia Taccogna.AssemblyInfo.cs
+C:\Users\ileni\source\repos\Test  Ilenia Taccogna\Test  Ilenia Taccogna\obj\Debug\net8.0\Test  Ilenia Taccogna.csproj.CoreCompileInputs.cache
+C:\Users\ileni\source\repos\Test  Ilenia Taccogna\Test  Ilenia Taccogna\obj\Debug\net8.0\Test  Ilenia Taccogna.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ileni\source\repos\Test  Ilenia Taccogna\Test  Ilenia Taccogna\obj\Debug\net8.0\Test  Ilenia Taccogna.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ileni\source\repos\Test  Ilenia Taccogna\Test  Ilenia Taccogna\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ileni\source\repos\Test  Ilenia Taccogna\Test  Ilenia Taccogna\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ileni\source\repos\Test  Ilenia Taccogna\Test  Ilenia Taccogna\obj\Debug\net8.0\staticwebassets\msbuild.Test  Ilenia Taccogna.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ileni\source\repos\Test  Ilenia Taccogna\Test  Ilenia Taccogna\obj\Debug\net8.0\staticwebassets\msbuild.build.Test  Ilenia Taccogna.props
+C:\Users\ileni\source\repos\Test  Ilenia Taccogna\Test  Ilenia Taccogna\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Test  Ilenia Taccogna.props
+C:\Users\ileni\source\repos\Test  Ilenia Taccogna\Test  Ilenia Taccogna\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Test  Ilenia Taccogna.props
+C:\Users\ileni\source\repos\Test  Ilenia Taccogna\Test  Ilenia Taccogna\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ileni\source\repos\Test  Ilenia Taccogna\Test  Ilenia Taccogna\obj\Debug\net8.0\scopedcss\bundle\Test  Ilenia Taccogna.styles.css
+C:\Users\ileni\source\repos\Test  Ilenia Taccogna\Test  Ilenia Taccogna\obj\Debug\net8.0\Test  Il.B7BB56C3.Up2Date
+C:\Users\ileni\source\repos\Test  Ilenia Taccogna\Test  Ilenia Taccogna\obj\Debug\net8.0\Test  Ilenia Taccogna.dll
+C:\Users\ileni\source\repos\Test  Ilenia Taccogna\Test  Ilenia Taccogna\obj\Debug\net8.0\refint\Test  Ilenia Taccogna.dll
+C:\Users\ileni\source\repos\Test  Ilenia Taccogna\Test  Ilenia Taccogna\obj\Debug\net8.0\Test  Ilenia Taccogna.pdb
+C:\Users\ileni\source\repos\Test  Ilenia Taccogna\Test  Ilenia Taccogna\obj\Debug\net8.0\Test  Ilenia Taccogna.genruntimeconfig.cache
+C:\Users\ileni\source\repos\Test  Ilenia Taccogna\Test  Ilenia Taccogna\obj\Debug\net8.0\ref\Test  Ilenia Taccogna.dll
